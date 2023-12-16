@@ -1,4 +1,3 @@
-https://github.com/UmerAwan9/UmerAwan9/blob/main/CV.docx
 ![logo](https://github.com/UmerAwan9/UmerAwan9/blob/main/20231214_170956_0000.png)
 <h1 align="center">Hi 👋, I'm UmerAwan9</h1>
 <h3 align="center">A passionate frontend developer from pakistan</h3>
